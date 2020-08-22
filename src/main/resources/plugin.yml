@@ -1,0 +1,8 @@
+name: DeliveryPVP
+version: ${project.version}
+main: nagi.mcje.deliverypvp.Main
+commands:
+ dpvp:
+  description: 納品PVPコマンド
+  usage: /dpvp <start|stop|add|remove|set>
+  default: op
