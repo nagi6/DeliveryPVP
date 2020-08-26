@@ -1,6 +1,9 @@
 # DeliveryPVP
 Spigot用納品PVP
 
+テスト動画 https://youtu.be/BkqyKZcqBTY
+[おまけ]銃PVP動画 https://youtu.be/80xmkIG6BV4
+
 ## ルール
 納品PVPは赤チームと青チームに分かれてお互いのエメラルドを盗みあうPVPです。<br>
 どちらかのチームが所定の数のエメラルドを持ち帰るか全滅すると勝利です。<br>
