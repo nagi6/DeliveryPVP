@@ -1,7 +1,7 @@
 # DeliveryPVP
-Spigot用納品PVP
-
-テスト動画 https://youtu.be/BkqyKZcqBTY
+Spigot用納品PVP<br>
+<br>
+テスト動画 https://youtu.be/BkqyKZcqBTY<br>
 [おまけ]銃PVP動画 https://youtu.be/80xmkIG6BV4
 
 ## ルール
